@@ -3,18 +3,21 @@ layout: default
 ---
 {% assign author = site.data.authors[page.author] %}
 
-<h2>{{ page.title }}</h2>
-
-<time datetime="{{ page.date }}">
-  <small>
-    <strong>{{ page.date | date_to_string }}</strong>
-    {% if author %}
-      by {{ author.name }}
-    {% endif %}
-  </small>
-</time>
-
-{% include page-intro.html %}
+<div class="wrapper">
+    <div class="half-div">
+      <div class="content"><a href="/"></a>
+        <div class="collection-list-wrapper w-dyn-list">
+          <div class="w-dyn-items">
+            <div class="w-dyn-item"><a data-w-id="294a98eb-f1d4-71a0-2f6a-2d169b82f0a3" href="#"></a><img style="display:none" src="" alt="" class="image-2"></div>
+          </div>
+          <div class="w-dyn-empty">
+            <div>No items found.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="half-div"></div>
+  </div>
 
 {{ content }}
 
