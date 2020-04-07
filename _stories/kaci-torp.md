@@ -1,0 +1,16 @@
+---
+title: "Kaci Torp"
+slug: "kaci-torp"
+collection-id: "5e6d70b00f8bc37676b1754f"
+item-id: "5e6d70b4db26876f9ff3e507"
+bio: "<h2>Iusto itaque est.</h2><p>Omnis animi voluptatum eligendi quia. Consequatur minus hic et rerum enim excepturi explicabo placeat ipsam. Doloribus aut earum eveniet debitis velit illum. Velit aut ut officiis autem fuga assumenda dolorem.</p><h3>Perspiciatis suscipit quis ad doloremque nulla natus fuga odit maxime.</h3><blockquote>Quis eligendi architecto aliquid dolore sequi. Magni dolorem a pariatur rerum. Aperiam repellendus eum est labore. Nihil voluptatem voluptate. Vel et corporis eum.</blockquote><p>Nihil sed eum nulla dolorem alias dolores nisi aspernatur. Blanditiis sit laboriosam alias facere vero. Blanditiis necessitatibus sapiente repellendus in dolores aut exercitationem eius autem. Provident magni nihil sint sed corrupti. Et quos deserunt doloribus ut itaque nisi reiciendis quis voluptate.</p><p>Omnis voluptates rem delectus aut aut ut. Placeat ut doloribus vel iusto. Molestias minima voluptas et.</p><h2>Ea sit numquam quisquam alias non.</h2><p>Quia architecto consequatur quia enim odit explicabo. Qui eveniet minima autem sed tempora. Expedita nisi qui earum necessitatibus eaque.</p><h3>Et et id quidem.</h3><blockquote>Nostrum est blanditiis ipsum quasi deleniti animi maiores aspernatur. Est accusantium illum harum est rerum. Numquam eveniet quis necessitatibus odio veritatis dicta est eos esse. Impedit quia ullam aut libero. Et autem dignissimos ipsam animi inventore enim. Quis quasi qui minus explicabo tempora qui sed.</blockquote><p>Adipisci necessitatibus aut voluptate deleniti. Iste cupiditate quia labore quod. Harum ex assumenda pariatur voluptate a id. Sed corporis commodi nihil. Molestiae quos sit dolore.</p><p>Autem mollitia ullam consequatur velit dolorem doloribus nulla ipsa. Non reprehenderit praesentium eos dolorum rerum et et. Non et maxime.</p>"
+bio-summary: "Voluptates omnis sed qui aliquid.\nEst maiores ullam quia distinctio et quo soluta blanditiis ipsa.\nUt consequatur officia eos vero.\nSit et qui doloremque et eum maiores.\nDoloribus amet qui non ut nulla.\nFugiat sequi ut nihil error distinctio eius.\nMaiores dolorem consequatur fugiat.\n"
+main-picture: "https://uploads-ssl.webflow.com/5e6d6eeee64d7db4d5d15525/5e6d71fb1489072f2bc84c0a__KAI4439.jpg"
+more-images: ""
+instagram: "https://www.cnn.com"
+other-social-link: "https://www.wikipedia.org"
+magazine: "vol-ii"
+date: "2020-03-15T00:03:00.000Z"
+layout: "story"
+tags: "stories"
+---

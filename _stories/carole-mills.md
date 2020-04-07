@@ -1,0 +1,16 @@
+---
+title: "Carole Mills"
+slug: "carole-mills"
+collection-id: "5e6d70b00f8bc37676b1754f"
+item-id: "5e6d70b33dea837fd23389f4"
+bio: "<h2>Modi voluptas doloribus neque ratione reprehenderit expedita quam accusantium.</h2><p>Deleniti id alias aut quod eum rem vel error totam. Ut qui praesentium dignissimos qui eveniet placeat. Enim aperiam totam nam numquam nobis quia itaque commodi. Odio iste saepe.</p><h3>Soluta ut iste veniam magni.</h3><blockquote>Tempore esse voluptatem exercitationem ut sequi et minus dolores harum. Sed non corporis. Sed facilis sunt dolorem.</blockquote><p>Provident at sequi iste ut. Unde minima eos ad mollitia sint ut ea. Est possimus assumenda hic. Itaque non cum molestias est pariatur qui dolore. Dignissimos quisquam est non dolor dicta. Aut aut quia quaerat quisquam quisquam est et esse rerum.</p><p>Et facilis sit qui. Et sunt maxime eveniet fugit quia quo architecto qui qui. Qui aut eaque vel voluptatem assumenda laborum sit. Facilis quaerat occaecati repellat qui numquam dolorem et dolor incidunt. Numquam libero odit suscipit ea ut vel qui vel. Enim qui qui sunt doloribus nihil.</p><h2>Adipisci molestias aut dolores dicta quia.</h2><p>Voluptatem officiis vel ratione. Voluptatem explicabo voluptatibus commodi. Ut dolor quas quo quod incidunt. Veniam dolore rerum qui quibusdam minima recusandae quam. Mollitia fugiat est libero rem. Sint numquam dolorem sed vero voluptatum autem tenetur omnis eos.</p><h3>Architecto modi pariatur sunt itaque omnis sequi.</h3><blockquote>Est repudiandae nostrum rerum. Sed ab ut quia cumque velit sed ut voluptas. Nostrum laboriosam quasi. Quidem consequatur earum quibusdam quaerat commodi voluptatem eaque nihil quibusdam.</blockquote><p>Quia et quam expedita et. Culpa nemo sed delectus nam delectus pariatur. Ad omnis ipsa. Omnis sunt earum quod atque assumenda nisi dicta et. Quidem similique voluptates deserunt. Et ex aut qui possimus animi consequatur.</p><p>Nihil libero optio est vero. Molestiae et vero quasi mollitia omnis tenetur quisquam itaque. Ut error aut. Cum nostrum ipsum earum voluptatem ratione excepturi ut fugit. Hic velit voluptatibus officia voluptatem debitis ut.</p>"
+bio-summary: "Fugiat officiis iusto sapiente fuga.\nNihil amet nemo quia.\nEx qui quae atque et molestiae omnis.\nModi perspiciatis deleniti occaecati velit fugit sequi.\nDebitis et ut assumenda incidunt ab.\nEarum voluptatibus repellat qui earum ut.\nConsectetur rerum ullam molestiae veritatis officiis "
+main-picture: "https://uploads-ssl.webflow.com/5e6d6eeee64d7db4d5d15525/5e6d75c4a2ae97ea9428b77e_5-2.JPG"
+more-images: ""
+instagram: "https://www.whatsapp.com"
+other-social-link: "https://www.craigslist.org"
+magazine: "vol-i"
+date: "2020-03-15T00:02:59.000Z"
+layout: "story"
+tags: "stories"
+---

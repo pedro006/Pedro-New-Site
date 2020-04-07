@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
-
+<ul>
+  {% for story in site.stories %}
+  {% assign magazine = site.data.magazines[story.magazine] %}
+    <li>
+      <h4><a href="{{ story.url }}">{{ story.title }}</a></h4>
+    </li>
+  {% endfor %}
+</ul>
 <div class="intro"><img src="images/LOGO-V1-01.svg" alt=""></div>
   <div class="wrapper">
     <div class="half-div">
@@ -17,6 +24,7 @@ layout: default
         </div>
       </div>
     </div>
+    <!--
     <div class="half-div">
       <div class="book-wrapper">
         <div class="bookup">
@@ -30,5 +38,5 @@ layout: default
           </div>
         </div>
       </div>
-    </div>
+    </div>-->
   </div>

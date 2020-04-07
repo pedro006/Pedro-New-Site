@@ -1,0 +1,16 @@
+---
+title: "Dominique Spencer"
+slug: "dominique-spencer"
+collection-id: "5e6d70b00f8bc37676b1754f"
+item-id: "5e6d70b33dea8380063389f5"
+bio: "<h2>Autem voluptatibus aut ut voluptatem.</h2><p>Et voluptate quod magni consequatur. Hic consequatur numquam officia corporis dicta. Et voluptatum incidunt excepturi incidunt facilis. Qui rerum saepe aperiam. Possimus aut assumenda et et.</p><h3>Illum et voluptatum reiciendis repellat sunt.</h3><blockquote>Aliquam voluptatem cupiditate eos pariatur ut repudiandae explicabo. Impedit eligendi distinctio nostrum veniam neque. Iusto error quod sit.</blockquote><p>Et sunt expedita autem ipsam quo autem voluptas. Inventore totam deleniti voluptatum doloremque magnam magnam. Pariatur et eum corrupti vero saepe id voluptas. Excepturi necessitatibus est itaque maxime suscipit est ut qui et. Nemo et voluptatem enim qui omnis sunt illum voluptatum autem.</p><p>Neque rerum unde vel. Quo sed incidunt cumque in cum cumque minima laborum laborum. Sint earum blanditiis magnam libero animi accusamus illo. Ea iure aut dolores quod enim velit.</p><h2>Possimus quae eligendi amet autem modi dolor.</h2><p>Quo amet quas. Qui debitis voluptas quaerat consequatur dolorum asperiores accusamus. Hic voluptatem et voluptatum odio sed ipsum repudiandae velit et. Sequi quam cum sed sequi fugit est recusandae autem eum. Aperiam voluptas debitis est ut sunt facere dolor facilis.</p><h3>Libero qui magni consequatur suscipit quia fuga.</h3><blockquote>Hic voluptatum laborum odio a optio in est molestiae qui. Possimus dolorem provident est. Ut non quia pariatur est quos. Sit est et optio est et sed.</blockquote><p>Qui et hic. Nihil et provident. Distinctio id cumque quia aut exercitationem modi aut at.</p><p>Dolor perspiciatis nostrum velit earum fuga. Ipsum possimus nisi enim eius dolorum quis voluptas. At deleniti optio excepturi porro labore maiores. Non ab in expedita rerum ipsa ut quidem dolor. Quia reprehenderit ex iusto nihil. Soluta non et nulla ut.</p>"
+bio-summary: "Dicta et cumque delectus aliquid neque dignissimos rerum.\nMinima et maxime possimus ipsa molestiae sapiente voluptates.\nEt voluptas quis.\nBeatae harum sit.\nSunt accusantium et voluptatem placeat ullam tempore.\nAccusamus aliquam officiis veritatis aliquam natus.\n"
+main-picture: "https://uploads-ssl.webflow.com/5e6d6eeee64d7db4d5d15525/5e6d7242e64d7d4d94d169c3__KAI3731%20copy.jpg"
+more-images: ""
+instagram: "https://www.facebook.com"
+other-social-link: "https://www.instagram.com"
+magazine: "vol-ii"
+date: "2020-03-15T00:02:59.000Z"
+layout: "story"
+tags: "stories"
+---

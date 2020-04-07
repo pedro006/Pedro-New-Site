@@ -1,0 +1,37 @@
+---
+layout: default
+---
+{% assign magazine = site.data.magazines[page.magazine] %}
+
+<div class="wrapper">
+    <div class="half-div">
+      <div class="content"><a href="/"></a>
+        <div class="collection-list-wrapper w-dyn-list">
+          <div class="w-dyn-items">
+            <div class="w-dyn-item"><a data-w-id="294a98eb-f1d4-71a0-2f6a-2d169b82f0a3" href="#"></a><img style="display:none" src="" alt="" class="image-2"></div>
+          </div>
+          <div class="w-dyn-empty">
+            <div>No items found.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="half-div"></div>
+  </div>
+
+{{ content }}
+
+<nav aria-label="Adjacent Posts">
+  <ul>
+    {% if page.previous.url %}
+      <li>
+        <a href="{{page.previous.url}}" rel="prev">&laquo; {{page.previous.title}}</a>
+      </li>
+    {% endif %}
+    {% if page.next.url %}
+      <li>
+        <a href="{{page.next.url}}" rel="next">{{page.next.title}} &raquo;</a>
+      </li>
+    {% endif %}
+  </ul>
+</nav>

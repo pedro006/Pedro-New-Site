@@ -1,0 +1,16 @@
+---
+title: "Tyrique Streich"
+slug: "tyrique-streich"
+collection-id: "5e6d70b00f8bc37676b1754f"
+item-id: "5e6d70b39ec0823943d3c404"
+bio: "<h2>Molestias dolor aut impedit est facere at est.</h2><p>Aut error blanditiis in eos ad repellendus asperiores. Necessitatibus placeat perspiciatis voluptas veniam qui ex eligendi quo omnis. Voluptatem nihil exercitationem autem natus sed porro.</p><h3>Necessitatibus qui adipisci veniam qui blanditiis quibusdam voluptatem officiis numquam.</h3><blockquote>Voluptatum consequuntur quos sint. Odio inventore nihil. Ratione esse animi. Occaecati qui a similique aut voluptatem.</blockquote><p>Sint maiores vitae rerum et. Quia sint consequatur qui ea autem. Consequatur pariatur ut magni. Rem in hic.</p><p>Minus et omnis facere neque id quis doloremque reprehenderit. Enim quia ut voluptatem facere quae totam. Animi aspernatur aut dolorem assumenda consequuntur blanditiis.</p>"
+bio-summary: "Mollitia et et sit.\nCorporis explicabo quisquam consequatur qui et.\nAlias placeat non praesentium mollitia qui.\nFacilis et expedita aut sed officiis dolorem.\nMolestias dolorem inventore aut consequatur.\nEsse enim eos ut facilis neque.\nLaboriosam veniam sit qu"
+main-picture: ""
+more-images: ""
+instagram: "https://www.bing.com"
+other-social-link: "https://www.reddit.com"
+magazine: "vol-i"
+date: "2020-03-15T00:02:59.000Z"
+layout: "story"
+tags: "stories"
+---
