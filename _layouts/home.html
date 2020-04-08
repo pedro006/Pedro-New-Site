@@ -1,23 +1,18 @@
 ---
 layout: default
 ---
-<ul>
-  {% for story in site.stories %}
-  {% assign magazine = site.data.magazines[story.magazine] %}
-    <li>
-      <h4><a href="{{ story.url }}">{{ story.title }}</a></h4>
-    </li>
-  {% endfor %}
-</ul>
 <div class="intro"><img src="images/LOGO-V1-01.svg" alt=""></div>
   <div class="wrapper">
     <div class="half-div">
       <div class="content">
         <div class="title">Magazine</div>
         <div class="w-dyn-list">
+          {% for story in site.stories %}
+          {% assign magazine = site.data.magazines[story.magazine] %}
           <div class="w-dyn-items">
-            <div class="w-dyn-item"><a href="#"></a></div>
+            <div class="w-dyn-item"><a href="{{ story.url }}">{{ story.title }}</a></div>
           </div>
+          {% endfor %}
           <div class="w-dyn-empty">
             <div>No items found.</div>
           </div>
