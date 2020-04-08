@@ -12,5 +12,5 @@ other-social-link: "https://www.tumblr.com"
 magazine: "vol-ii"
 date: "2020-03-15T00:03:00.000Z"
 layout: "story"
-tags: "stories"
+section: "stories"
 ---

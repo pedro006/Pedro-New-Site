@@ -12,5 +12,5 @@ other-social-link: "https://www.instagram.com"
 magazine: "vol-ii"
 date: "2020-03-15T00:02:59.000Z"
 layout: "story"
-tags: "stories"
+section: "stories"
 ---

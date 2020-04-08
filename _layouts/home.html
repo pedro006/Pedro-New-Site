@@ -2,24 +2,23 @@
 layout: default
 ---
 <div class="intro"><img src="images/LOGO-V1-01.svg" alt=""></div>
-  <div class="wrapper">
-    <div class="half-div">
-      <div class="content">
-        <div class="title">Magazine</div>
-        <div class="w-dyn-list">
-          {% for story in site.stories %}
-          {% assign magazine = site.data.magazines[story.magazine] %}
-          <div class="w-dyn-items">
-            <div class="w-dyn-item"><a href="{{ story.url }}">{{ story.title }}</a></div>
-          </div>
-          {% endfor %}
-          <div class="w-dyn-empty">
-            <div>No items found.</div>
-          </div>
+<div class="wrapper">
+  <div class="half-div">
+    <div class="content">
+      <div class="title">Magazine</div>
+      <div class="w-dyn-list">
+        {% for posts in site.stories %}
+        <div class="w-dyn-items">
+          <div class="w-dyn-item"><a href="{{ story.url }}">{{ story.title }}</a></div>
+        </div>
+        {% endfor %}
+        <div class="w-dyn-empty">
+          <div>No items found.</div>
         </div>
       </div>
     </div>
-    <!--
+  </div>
+  <!--
     <div class="half-div">
       <div class="book-wrapper">
         <div class="bookup">
@@ -34,4 +33,4 @@ layout: default
         </div>
       </div>
     </div>-->
-  </div>
+</div>
